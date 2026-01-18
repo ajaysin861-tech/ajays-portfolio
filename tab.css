@@ -1,0 +1,15 @@
+@media (min-width: 770px) and (max-width: 1080px) {
+
+.main1 img {
+    width: 50%;
+}
+
+.main2 img {
+    width: 50%;
+}
+
+.main3 img {
+    width: 40%;
+}
+
+}
