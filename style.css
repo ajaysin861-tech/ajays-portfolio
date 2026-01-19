@@ -691,8 +691,12 @@ label {
 }
 
 .newsletter-box h3  {
-    font-size: 0.6rem;
+    font-size: 0.8rem;
 }
+
+.newsletter-box p {
+    font-size: 0.6rem;
+} 
 
 .sath {
     display: flex;
@@ -1058,4 +1062,5 @@ label:hover {
 
 .slider-container {
     display: none;
+
 }
